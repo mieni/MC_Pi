@@ -14,4 +14,4 @@ The program uses the [matplotlib](https://matplotlib.org/) library for plotting.
 The program uses the [Tkinter](https://wiki.python.org/moin/TkInter) package for the GUI
 
 -------------------------------------------------------------------------------------
-![][https://github.com/mieni/MC_Pi/blob/master/Screenshot.png]
+![](https://github.com/mieni/MC_Pi/blob/master/Screenshot.png)
