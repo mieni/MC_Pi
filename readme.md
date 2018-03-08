@@ -12,3 +12,6 @@ The program uses the [matplotlib](https://matplotlib.org/) library for plotting.
 **Pi_gui** uses a simple GUI. The program reads from an entry field the maximum generated points then plots all the values of Pi for using ( 0 : maximum number) of points.
 
 The program uses the [Tkinter](https://wiki.python.org/moin/TkInter) package for the GUI
+
+-------------------------------------------------------------------------------------
+[Screenshot][https://github.com/mieni/MC_Pi/blob/master/Screenshot.png]
